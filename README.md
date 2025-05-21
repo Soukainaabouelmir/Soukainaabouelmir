@@ -5,7 +5,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=abouelmirsoukaina&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   
- [![GitHub Streak](https://streak-stats.demolab.com/?user=abouelmirsoukaina&theme=tokyonight)](https://git.io/streak-stats)
+ 
 
 </div>
 
@@ -104,7 +104,9 @@
 - **Technologies:** Python, Scikit-learn, Pandas, Flask, Bootstrap
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abouelmirsoukaina&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abouelmirsoukaina&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <br />
+
 </div>
 
 ## 📫 Connect With Me
