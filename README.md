@@ -3,7 +3,8 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Girl" width="400" />
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="AI Brain Dark" width="400" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Code Scrolling Dark" width="400" />
+
 
 
  <strong>Crafting code with creativity 💡 | Solving problems with AI 🤖</strong>
