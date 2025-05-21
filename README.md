@@ -5,7 +5,8 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=abouelmirsoukaina&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abouelmirsoukaina&theme=tokyonight)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=abouelmirsoukaina&theme=tokyonight)](https://git.io/streak-stats)
+
 </div>
 
 ## 👩‍🎓 About Me
