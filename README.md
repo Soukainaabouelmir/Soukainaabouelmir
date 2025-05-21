@@ -63,54 +63,66 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>tjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 </div>
 
 ## 📊 Projects
 
-### [Project Name 1] - AI Image Recognition System
-- Developed a convolutional neural network for image classification
-- Achieved 95% accuracy on test dataset
-- Technologies: PyTorch, OpenCV, Python
+### [AI-Powered Health Diagnostic System]
+- Developed intelligent medical diagnostic system using machine learning algorithms
+- Achieved 92% accuracy in detecting early signs of chronic conditions
+- **Technologies:** Python, TensorFlow, Spring Boot, React, MongoDB
 
-### [Project Name 2] - Smart Healthcare Application
-- Created a web application for remote patient monitoring
-- Implemented machine learning algorithms for health data analysis
-- Technologies: React, Node.js, TensorFlow.js, MongoDB
+### [E-Learning Platform]
+- Built responsive educational platform with personalized learning paths
+- Implemented real-time analytics dashboard for student performance tracking
+- **Technologies:** Laravel, Vue.js, MySQL, AWS
 
-### [Project Name 3] - Natural Language Processing Tool
-- Built a sentiment analysis tool for customer reviews
-- Processed over 10,000 reviews with 87% accuracy
-- Technologies: BERT, Python, Flask, AWS
+### [Smart Inventory Management System]
+- Created microservices-based inventory solution for retail businesses
+- Reduced inventory discrepancies by 35% with predictive analytics
+- **Technologies:** Spring Boot, React, Docker, PostgreSQL
 
-## 📫 How to reach me:
+### [Social Media Analytics Tool]
+- Designed sentiment analysis tool for social media marketing campaigns
+- Processed 50,000+ posts daily with natural language processing
+- **Technologies:** Python, BERT, FastAPI, React, MongoDB
+
+### [Academic Management System]
+- Developed a complete academic platform for managing students, teachers, schedules, and grades
+- Included features like timetable automation and document management
+- **Technologies:** Laravel, MySQL, FullCalendar.js, Bootstrap
+
+### [Human Resource Management System]
+- Built a centralized HR system to manage employee data, payroll, and leave tracking
+- Integrated performance evaluation and automated notifications
+- **Technologies:** Laravel, ReactJs, PostgreSQL, Docker,TailwindCSS
+
+### [AI-Based Diabetes Prediction System]
+- Implemented a predictive model to detect the risk of diabetes using patient data
+- Used classification models and feature selection to improve accuracy and interpretability
+- **Technologies:** Python, Scikit-learn, Pandas, Flask, Bootstrap
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abouelmirsoukaina&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</div>
+
+## 📫 Connect With Me
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soukaina-abouelmir-120aa527b/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abouelmirsoukaina2@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soukainaabouelmir)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://soukaabou.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=abouelmirsoukaina&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  
+  ### "The best way to predict the future is to create it." 🚀
+  
+  ![Thank You](https://img.shields.io/badge/Thank_You_For_Visiting!-FF69B4?style=for-the-badge)
 </div>
