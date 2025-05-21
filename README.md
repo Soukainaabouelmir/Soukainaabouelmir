@@ -3,7 +3,8 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Girl" width="400" />
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Code Scrolling Dark" width="400" />
+<img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" alt="Neural Network Dark" width="400" />
+
 
 
 
