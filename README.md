@@ -3,7 +3,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Girl" width="400" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=abouelmirsoukaina&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+ <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abouelmirsoukaina&theme=tokyonight&column=6&margin-w=10&margin-h=10" alt="GitHub Trophy" />
+</div>
+
   
  
 
