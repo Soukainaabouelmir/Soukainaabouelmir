@@ -106,10 +106,21 @@
 - Used classification models and feature selection to improve accuracy and interpretability
 - **Technologies:** Python, Scikit-learn, Pandas, Flask, Bootstrap
 
+## 📈 GitHub Activity Overview
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VOTRE_NOM&theme=github_dark" alt="Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VOTRE_NOM&theme=github_dark" alt="Most Commit Language" />
+
+  <!-- GitHub Profile Trophy (Remplace streaks/stats/langs) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=abouelmirsoukaina&theme=tokyonight&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abouelmirsoukaina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abouelmirsoukaina&layout=compact&theme=tokyonight" alt="Top Languages" />
+
 </div>
+
 
 ## 📫 Connect With Me
 
