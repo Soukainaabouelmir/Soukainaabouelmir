@@ -1,7 +1,8 @@
 # Hello World! I'm Soukaina ABOUELMIR 👋
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Girl" width="400" />
- <img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" alt="Data Science" width="400" />
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400" />
+
 
 </div>
 
