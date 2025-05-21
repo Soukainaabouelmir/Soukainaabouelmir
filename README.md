@@ -133,6 +133,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=abouelmirsoukaina&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img serc="https://skillicons.dev/icons?i=java,js,python,php,spring,laravel,react,angular,mongodb,mysql,docker,git&theme=dark" />
   
   ### "The best way to predict the future is to create it." 🚀
   
