@@ -107,9 +107,8 @@
 - **Technologies:** Python, Scikit-learn, Pandas, Flask, Bootstrap
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abouelmirsoukaina&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  <br />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VOTRE_NOM&theme=github_dark" alt="Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VOTRE_NOM&theme=github_dark" alt="Most Commit Language" />
 </div>
 
 ## 📫 Connect With Me
