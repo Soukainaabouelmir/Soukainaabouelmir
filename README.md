@@ -1,10 +1,8 @@
 # Hello World! I'm Soukaina ABOUELMIR 👋
-
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Girl" width="400" />
-  
- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abouelmirsoukaina&theme=tokyonight&column=6&margin-w=10&margin-h=10" alt="GitHub Trophy" />
+  <img src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6" alt="Coding" />
+
 </div>
 
   
@@ -106,20 +104,9 @@
 - Used classification models and feature selection to improve accuracy and interpretability
 - **Technologies:** Python, Scikit-learn, Pandas, Flask, Bootstrap
 
-## 📈 GitHub Activity Overview
 
-<div align="center">
 
-  <!-- GitHub Profile Trophy (Remplace streaks/stats/langs) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=abouelmirsoukaina&theme=tokyonight&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abouelmirsoukaina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abouelmirsoukaina&layout=compact&theme=tokyonight" alt="Top Languages" />
-
-</div>
 
 
 ## 📫 Connect With Me
