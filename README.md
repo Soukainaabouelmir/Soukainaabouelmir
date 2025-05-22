@@ -95,13 +95,7 @@
 
 ### Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Soukainaabouelmir&theme=radical&hide_border=true)
-
-### Weekly Development Breakdown
-```text
-Python       🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45% 
-JavaScript   🟪🟪🟪🟪🟪🟪🟪🟪     32%
-Java         🟩🟩🟩🟩🟩           15%
-Other        🟨🟨🟨                8%
+</div>
 
 ## 📫 Connect With Me
 
