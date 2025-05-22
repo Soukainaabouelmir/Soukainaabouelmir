@@ -83,7 +83,25 @@
 - Learning DevOps tools like Docker and CI/CD workflows
 - Contributing to open-source projects
 
+## 📊 GitHub Dashboard
 
+<div align="center">
+
+### My Coding Activity
+![Soukaina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soukainaabouelmir&show_icons=true&theme=radical&hide_border=true)
+
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soukainaabouelmir&layout=compact&theme=radical&hide_border=true)
+
+### Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=Soukainaabouelmir&theme=radical&hide_border=true)
+
+### Weekly Development Breakdown
+```text
+Python       🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45% 
+JavaScript   🟪🟪🟪🟪🟪🟪🟪🟪     32%
+Java         🟩🟩🟩🟩🟩           15%
+Other        🟨🟨🟨                8%
 
 ## 📫 Connect With Me
 
