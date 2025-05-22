@@ -76,45 +76,12 @@
 
 </div>
 
-## 📊 Projects
+## 👩‍💻 What I'm Working On
 
-### [AI-Powered Health Diagnostic System]
-- Developed intelligent medical diagnostic system using machine learning algorithms
-- Achieved 92% accuracy in detecting early signs of chronic conditions
-- **Technologies:** Python, TensorFlow, Spring Boot, React, MongoDB
-
-### [E-Learning Platform]
-- Built responsive educational platform with personalized learning paths
-- Implemented real-time analytics dashboard for student performance tracking
-- **Technologies:** Laravel, Vue.js, MySQL, AWS
-
-### [Smart Inventory Management System]
-- Created microservices-based inventory solution for retail businesses
-- Reduced inventory discrepancies by 35% with predictive analytics
-- **Technologies:** Spring Boot, React, Docker, PostgreSQL
-
-### [Social Media Analytics Tool]
-- Designed sentiment analysis tool for social media marketing campaigns
-- Processed 50,000+ posts daily with natural language processing
-- **Technologies:** Python, BERT, FastAPI, React, MongoDB
-
-### [Academic Management System]
-- Developed a complete academic platform for managing students, teachers, schedules, and grades
-- Included features like timetable automation and document management
-- **Technologies:** Laravel, MySQL, FullCalendar.js, Bootstrap
-
-### [Human Resource Management System]
-- Built a centralized HR system to manage employee data, payroll, and leave tracking
-- Integrated performance evaluation and automated notifications
-- **Technologies:** Laravel, ReactJs, PostgreSQL, Docker,TailwindCSS
-
-### [AI-Based Diabetes Prediction System]
-- Implemented a predictive model to detect the risk of diabetes using patient data
-- Used classification models and feature selection to improve accuracy and interpretability
-- **Technologies:** Python, Scikit-learn, Pandas, Flask, Bootstrap
-
-
-
+- Improving my skills in backend technologies (Laravel, Spring Boot)
+- Building AI models for healthcare applications
+- Learning DevOps tools like Docker and CI/CD workflows
+- Contributing to open-source projects
 
 
 
