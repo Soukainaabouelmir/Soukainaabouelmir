@@ -87,14 +87,11 @@
 
 <div align="center">
 
-### My Coding Activity
-![Soukaina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soukainaabouelmir&show_icons=true&theme=radical&hide_border=true)
+|  |  |
+|----------|----------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soukainaabouelmir&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soukainaabouelmir&layout=compact&theme=radical) |
+| ![Streak Stats](https://streak-stats.demolab.com/?user=Soukainaabouelmir&theme=radical) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soukainaabouelmir&theme=react-dark) |
 
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soukainaabouelmir&layout=compact&theme=radical&hide_border=true)
-
-### Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Soukainaabouelmir&theme=radical&hide_border=true)
 </div>
 
 ## 📫 Connect With Me
